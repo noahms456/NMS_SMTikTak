@@ -9,6 +9,6 @@ Here's the original wiring diagram, and a link to the demo video.
 
 [(insert link to the diagram)](https://github.com/noahms456/NMS_SMTikTak/blob/main/tik_tak_conection_diagram_euXqihN2IQ.png)
 
-(insert link to the demo video on YT)
+[(insert link to the demo video on YT)](https://www.youtube.com/watch?v=nBucMzlgESw)
 
 
